@@ -44,7 +44,7 @@ Contributions are welcome! If you have any ideas for new scripts or improvements
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
-## Follow me
+## Social Networks
 <p>
   <a href="https://www.linkedin.com/in/aqoraj" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
