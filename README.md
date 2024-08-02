@@ -34,7 +34,7 @@ python kml_to_powerfactory.py
 
 - **[kml_to_powerfactory.py](kml_to_powerfactory.py)** : Compares the elements (*ElmLne,*ElmSite...) with the Paths and Points in the kml file and updates all the coordinates based on a identifier defined through input parameters in PowerFactory.
 
-- **[osm_to_kml.py](osm_to_kml.py)** : Exports all the power grid elements of a country to a .kml file
+- **[osm_to_kml.py](osm_to_kml.py)** : Exports all the power grid elements from OpenStreetMap of a country to a .kml file. Make sure to define the right tags and change the country based on your needs.
 
 ## Contributing
 
