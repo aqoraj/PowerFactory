@@ -32,7 +32,7 @@ python kml_to_powerfactory.py
 
 ## Scripts
 
-- **[kml_to_powerfactory.py](kml_to_powerfactory.py)**: Compares the elements (*ElmLne,*ElmSite) with the Paths and Points in the kml file and updates all the coordinates based on a identifier defined through input parameters in PowerFactory.
+- **[kml_to_powerfactory.py](kml_to_powerfactory.py)** : Compares the elements (*ElmLne,*ElmSite...) with the Paths and Points in the kml file and updates all the coordinates based on a identifier defined through input parameters in PowerFactory.
 
 
 ## Contributing
@@ -42,7 +42,3 @@ Contributions are welcome! If you have any ideas for new scripts or improvements
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize the sections and descriptions as needed. If you have any specific scripts or additional details you'd like to include, let me know!
-
