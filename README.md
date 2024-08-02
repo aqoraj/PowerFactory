@@ -27,7 +27,7 @@ Each script is designed to perform a specific task within PowerFactory. Refer to
 Example:
 
 ```bash
-python kml_to_powerfactory.py
+python osm_to_kml.py
 ```
 
 ## Scripts
