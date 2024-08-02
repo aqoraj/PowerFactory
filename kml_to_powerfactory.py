@@ -1,7 +1,6 @@
 # Copyright 2024 by Adem Qoraj.
 # All rights reserved.
 # This file is part of the PowerFactory Repository, and is released under the "GPL-3.0 license".
-# Please see the LICENSE file that should have been included as part of this package.
 
 import powerfactory
 import xml.etree.ElementTree as ET
