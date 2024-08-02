@@ -1,6 +1,6 @@
 # PowerFactory - Useful Scripts and Tools
 
-Welcome to the PowerFactory Scripts and Tools repository! This collection of scripts is designed to help you with everyday tasks in DIgSILENT PowerFactory, making your workflow more efficient and productive.
+Welcome to the PowerFactory Scripts and Tools repository! These scripts were created for the master's degree and are used to mainly receive information from OpenStreetMap and to integrate them into PowerFactory.
 
 ## Table of Contents
 
