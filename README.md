@@ -43,3 +43,13 @@ Contributions are welcome! If you have any ideas for new scripts or improvements
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
+
+## Follow me
+<p>
+  <a href="https://www.linkedin.com/in/aqoraj" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/aqoraj" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
