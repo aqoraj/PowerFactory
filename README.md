@@ -1,6 +1,6 @@
 # PowerFactory - Useful Scripts and Tools
 
-Welcome to the PowerFactory Scripts and Tools repository! These scripts were created for the master's degree and are used to mainly receive information from OpenStreetMap and to integrate them into PowerFactory.
+Welcome to the PowerFactory Scripts and Tools repository! These scripts were created for the master's thesis and are used to mainly receive gis information from OpenStreetMap and to integrate them into PowerFactory.
 
 ## Table of Contents
 
